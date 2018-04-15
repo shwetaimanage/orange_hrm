@@ -43,8 +43,6 @@ class user_management(unittest.TestCase):
         rows = table_id.find_elements(By.TAG_NAME, 'tr')
         for row in rows[1:]:
             col = row.find_elements_by_tag_name('td')[1]
-            print col.text
-            break
 
 
     def search_users(self):
