@@ -1,0 +1,22 @@
+{
+  "url": "http://opensource.demo.orangehrmlive.com//",
+  "users_to_login" : {
+  "admin":{"username": "Admin", "password": "admin"},
+  "normal_user":{"username": "abc", "password": "admin"}},
+
+  "users_to_add" :
+  [{"User Role":"1","Employee Name":"John Smith","Username":"shweta","Status":"Enabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"1","Employee Name":"John Smith","Username":"user2","Status":"Enabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"1","Employee Name":"John Smith","Username":"user3","Status":"Enabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"1","Employee Name":"John Smith","Username":"user4","Status":"Enabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"1","Employee Name":"John Smith","Username":"user5","Status":"Enabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"2","Employee Name":"John Smith","Username":"user6","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"2","Employee Name":"John Smith","Username":"user7","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"2","Employee Name":"John Smith","Username":"user8","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"2","Employee Name":"John Smith","Username":"PoojaK","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
+    {"User Role":"2","Employee Name":"John Smith","Username":"user9","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"}
+]
+
+
+}
+
