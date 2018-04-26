@@ -1,6 +1,7 @@
 from selenium import webdriver
-from main import model as model, elements as element, locators as locator
-
+import model as model
+import locators as locator
+import elements as element
 
 class create_session(object):
 
