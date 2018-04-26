@@ -37,7 +37,7 @@ class test_home_page(unittest.TestCase):
 
     def test_login(self):
         self.assertIn("OrangeHRM", self.driver.title)
-        admin_user=model.get_users('admin')
+        admin_user= model.get_users('admin')
         username=element.find_element(locator.LoginPageLocators.EMAIL_ID, self.driver)
         password= element.find_element(locator.LoginPageLocators.PASSWORD, self.driver)
         login_button=element.find_element(locator.LoginPageLocators.LOGIN,self.driver)

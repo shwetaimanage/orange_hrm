@@ -1,13 +1,10 @@
-from selenium.webdriver.common.by import By
 import unittest
-import os
 
 from selenium.webdriver.support.wait import WebDriverWait
 
 import locators as locator
 import elements as element
 import admin_tab, model
-from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
 
 # class Job_tittle(unittest.TestCase):
