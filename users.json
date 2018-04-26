@@ -15,7 +15,21 @@
     {"User Role":"2","Employee Name":"John Smith","Username":"user8","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
     {"User Role":"2","Employee Name":"John Smith","Username":"PoojaK","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"},
     {"User Role":"2","Employee Name":"John Smith","Username":"user9","Status":"Disabled","Password":"Prime1","Confirm Password":"Prime1"}
-]
+],
+  "job_tittle":
+  {"tittles":["Director", "Senior manager", "Supervisor", "Chief executive officer", "HR"],
+    "job_description": "The responsibility of an organization's CEO are set by the organization's board of directors or other authority,depending on the organization's legal structure.",
+    "note": "Hope to Work with you soon"
+
+  },
+  "pay_grade":
+  {"name": "HOD",
+    "currency": "Ruppees",
+    "minimum_salary": "30000",
+    "maximum_salary": "100000"
+
+
+  }
 
 
 }

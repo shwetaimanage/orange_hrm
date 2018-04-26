@@ -1,1 +1,3 @@
-{}
+{
+  "admin_job.py::Job_tittle::test_delete_one_tittle": true
+}
